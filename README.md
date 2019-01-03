@@ -12,7 +12,7 @@
 ## Intructions to run
 > To run training use - **python3 deep\_lab\_v3\_train.py -h**
 >
-> To run inference use - **python3 deep\_lab\_\v3\_infer.py -h**
+> To run inference use - **python3 deep\_lab\_v3\_infer.py -h**
 >
 > This lists all possible commandline arguments
 
