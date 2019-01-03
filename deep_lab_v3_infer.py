@@ -89,7 +89,7 @@ def infer(FLAGS):
     ss.run(tf.global_variables_initializer())
 
     # load the model parameters
-    print('Loading model parameters ....................')
+    print('Loading model parameters.....................')
     tf.train.Saver().restore(ss, os.path.join(os.getcwd(), model_dir,
                                               FLAGS.model_file + '-' + str(FLAGS.which_checkpoint_model)))
     print('Loading model parameters completed...........')
