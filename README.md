@@ -16,7 +16,7 @@ python3 src/deep_lab_v3_train.py --help
 ```
 * To list inference options
 ```
-python3 src/deep_lab_v3_infer.py --help*
+python3 src/deep_lab_v3_infer.py --help
 ```
 
 ## Visualization of results
